@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangyWeb_Server", "TangyWeb_Server\TangyWeb_Server.csproj", "{B874E599-4DE4-4E4F-AF16-F0CED47E88A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangyWeb_Client", "TangyWeb_Client\TangyWeb_Client.csproj", "{0E52EE94-34D7-470D-A0F3-66438A4F06E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangy_Models", "Tangy_Models\Tangy_Models.csproj", "{C996C820-6F33-4B58-BD2B-8D4296327B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangy_Business", "Tangy_Business\Tangy_Business.csproj", "{63B581DF-5A60-412B-90A5-9CE97588DDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangy_Common", "Tangy_Common\Tangy_Common.csproj", "{799FB11D-8A06-4C90-9A0B-26CDEE9782D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangy_DataAccess", "Tangy_DataAccess\Tangy_DataAccess.csproj", "{AABA54AF-05AC-4B25-8D95-5C9768DB3E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B874E599-4DE4-4E4F-AF16-F0CED47E88A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B874E599-4DE4-4E4F-AF16-F0CED47E88A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B874E599-4DE4-4E4F-AF16-F0CED47E88A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B874E599-4DE4-4E4F-AF16-F0CED47E88A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E52EE94-34D7-470D-A0F3-66438A4F06E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E52EE94-34D7-470D-A0F3-66438A4F06E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E52EE94-34D7-470D-A0F3-66438A4F06E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E52EE94-34D7-470D-A0F3-66438A4F06E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C996C820-6F33-4B58-BD2B-8D4296327B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C996C820-6F33-4B58-BD2B-8D4296327B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C996C820-6F33-4B58-BD2B-8D4296327B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C996C820-6F33-4B58-BD2B-8D4296327B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B581DF-5A60-412B-90A5-9CE97588DDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B581DF-5A60-412B-90A5-9CE97588DDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B581DF-5A60-412B-90A5-9CE97588DDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B581DF-5A60-412B-90A5-9CE97588DDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799FB11D-8A06-4C90-9A0B-26CDEE9782D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799FB11D-8A06-4C90-9A0B-26CDEE9782D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799FB11D-8A06-4C90-9A0B-26CDEE9782D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799FB11D-8A06-4C90-9A0B-26CDEE9782D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABA54AF-05AC-4B25-8D95-5C9768DB3E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABA54AF-05AC-4B25-8D95-5C9768DB3E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABA54AF-05AC-4B25-8D95-5C9768DB3E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABA54AF-05AC-4B25-8D95-5C9768DB3E35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+@inject IJSRuntime _JsRuntime
+
+<div>
+    <div class="alert alert-info">@Title</div>
+    <div class="alert alert-success">
+        @if (ChildContent != null)
+        {
+            <span>@ChildContent</span>
+        }
+        else
+        {
+            <span>Hello, from Empty Render Fragment </span>
+        }
+    </div>
+    
+    <button class="btn btn-danger" @onclick="onButtonClick">Click Me!</button>
+    
+    <_GrandChildComponent/>
+</div>
+
+@code {
+
+    
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    public EventCallback onButtonClick { get; set; }
+    
+    public void ToastrSuccess()
+    {
+        _JsRuntime.ToastrSuccess("Operation Successful");
+    }
+
+}

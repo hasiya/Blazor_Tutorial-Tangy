@@ -1,0 +1,17 @@
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/bin/Debug/net6.0/Tangy_Business.deps.json
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/bin/Debug/net6.0/Tangy_Business.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/bin/Debug/net6.0/Tangy_Business.pdb
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/bin/Debug/net6.0/Tangy_DataAccess.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/bin/Debug/net6.0/Tangy_Models.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/bin/Debug/net6.0/Tangy_DataAccess.pdb
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/bin/Debug/net6.0/Tangy_Models.pdb
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/Tangy_Business.csproj.AssemblyReference.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/Tangy_Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/Tangy_Business.AssemblyInfoInputs.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/Tangy_Business.AssemblyInfo.cs
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/Tangy_Business.csproj.CoreCompileInputs.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/Tangy_Business.csproj.CopyComplete
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/Tangy_Business.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/refint/Tangy_Business.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/Tangy_Business.pdb
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Business/obj/Debug/net6.0/ref/Tangy_Business.dll

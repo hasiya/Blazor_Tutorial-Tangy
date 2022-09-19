@@ -1,0 +1,14 @@
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/bin/Debug/net6.0/Tangy_DataAccess.deps.json
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/bin/Debug/net6.0/Tangy_DataAccess.runtimeconfig.json
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/bin/Debug/net6.0/Tangy_DataAccess.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/bin/Debug/net6.0/Tangy_DataAccess.pdb
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/Tangy_DataAccess.csproj.AssemblyReference.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/Tangy_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/Tangy_DataAccess.AssemblyInfoInputs.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/Tangy_DataAccess.AssemblyInfo.cs
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/Tangy_DataAccess.csproj.CoreCompileInputs.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/Tangy_DataAccess.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/refint/Tangy_DataAccess.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/Tangy_DataAccess.pdb
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/Tangy_DataAccess.genruntimeconfig.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_DataAccess/obj/Debug/net6.0/ref/Tangy_DataAccess.dll

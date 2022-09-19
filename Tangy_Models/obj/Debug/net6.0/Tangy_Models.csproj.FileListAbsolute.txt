@@ -1,0 +1,12 @@
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/bin/Debug/net6.0/Tangy_Models.deps.json
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/bin/Debug/net6.0/Tangy_Models.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/bin/Debug/net6.0/Tangy_Models.pdb
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/Tangy_Models.csproj.AssemblyReference.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/Tangy_Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/Tangy_Models.AssemblyInfoInputs.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/Tangy_Models.AssemblyInfo.cs
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/Tangy_Models.csproj.CoreCompileInputs.cache
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/Tangy_Models.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/refint/Tangy_Models.dll
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/Tangy_Models.pdb
+/Users/RajithaHasith/Documents/Learning/C#/Blazor/Tangy/Tangy_Models/obj/Debug/net6.0/ref/Tangy_Models.dll
